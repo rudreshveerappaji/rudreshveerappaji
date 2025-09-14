@@ -1,3 +1,5 @@
+## Draft
+
 <h1 align="center"> 👋 </h1>
 <h3 align="center">Observer and Learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudreshveerappaji&label=Profile%20views&color=0e75b6&style=flat" alt="rudreshveerappaji" /> </p>
@@ -55,5 +57,3 @@ npx rudreshveerappaji
 
 <hr>  
 
-### <samp>Github Stats
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
