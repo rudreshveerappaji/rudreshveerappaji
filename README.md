@@ -5,11 +5,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudreshveerappaji&label=Profile%20views&color=0e75b6&style=flat" alt="rudreshveerappaji" /> </p>
 
 - 👷 <samp>Currently 
-- 🔭 <samp> ISC Board - 98.8%
+- 🔭 <samp> Education
+- Bachelor's in 💻 Engineering at PES University 
+- Executive management at IIMB
 - 💬 <samp>Ask me about CP/Html/CSS/ThreeJs/React
 - 🌱 <samp>I’m currently learning Frontend/Backend Development
 - 🤔 <samp>
-- ⚡ <samp>Fun fact: 
+- ⚡ <samp>Interests:
+- Cosmology
+- Machine learning and AI
+- Literature
+- Philosophy 
 - 📫 <samp>How to reach me
 
 This my NPX card unique style to connect with me directly via console or terminal
