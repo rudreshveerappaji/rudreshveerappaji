@@ -2,13 +2,13 @@
 <h3 align="center">Observer and Learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudreshveerappaji&label=Profile%20views&color=0e75b6&style=flat" alt="rudreshveerappaji" /> </p>
 
-- 👷 <samp> Currently working on Cybersecurity and AI security
+👷 <samp> Currently working on Cybersecurity and AI security
   
-- 🔭 <samp> Education
+🔭 <samp> Education
 - Bachelor's in 💻 Engineering at PES University 
 - Executive management at IIMB
 
-- ⚡ <samp>Interests:
+⚡ <samp>Interests:
 - Cybersecurity and computer networking
 - Cosmology
 - Machine learning and AI, Agentic frameworks
