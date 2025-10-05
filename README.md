@@ -3,19 +3,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudreshveerappaji&label=Profile%20views&color=0e75b6&style=flat" alt="rudreshveerappaji" /> </p>
 
 - 👷 <samp> Currently working on Cybersecurity and AI security
+  
 - 🔭 <samp> Education
 - Bachelor's in 💻 Engineering at PES University 
 - Executive management at IIMB
-- 🌱 <samp>I’m currently learning Frontend/Backend Development
-- 🤔 <samp>
+
 - ⚡ <samp>Interests:
 - Cybersecurity and computer networking
 - Cosmology
 - Machine learning and AI, Agentic frameworks
 - Literature
-- Philosophy 
-- 📫 <samp>How to reach me
-- 
+- Philosophy
+
 👇 just hit 
 ```bash
 npx rudreshveerappaji
