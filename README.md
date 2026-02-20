@@ -1,11 +1,11 @@
 <h2 align="center">Cybersecurity expert, AI Engineering, leader and a problem solver</h2>
   
-🔭 <samp> Education
+🔭 <h3><b><samp> Education </samp></b></h3>
 - Bachelor's in Computer Science & Engineering at PES University 
 - Executive General Management at IIMB
 - Industry Standard certifications on AI, Security (2xCCIE), Networking, Cloud & Product Management.
 
-⚡ <samp>Interests
+⚡ <h3><b><samp>Interests </samp></b></h3>
 - Cybersecurity and computer networking
 - Machine learning and AI, Agentic frameworks
 - Cosmology
