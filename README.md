@@ -1,6 +1,4 @@
-<h3 align="center">Cybersecurity expert, AI enthusiast, leader and a problem solver</h3>
-
-👷 <samp> Currently working on Cybersecurity and AI security
+<h2 align="center">Cybersecurity expert, AI Engineering, leader and a problem solver</h2>
   
 🔭 <samp> Education
 - Bachelor's in Computer Science & Engineering at PES University 
