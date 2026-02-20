@@ -1,13 +1,11 @@
-<h1 align="center"> 👋 </h1>
 <h3 align="center">Cybersecurity expert, AI enthusiast, leader and a problem solver</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudreshveerappaji&label=Profile%20views&color=0e75b6&style=flat" alt="rudreshveerappaji" /> </p>
 
 👷 <samp> Currently working on Cybersecurity and AI security
   
 🔭 <samp> Education
-- Bachelor's in 💻 Engineering at PES University 
+- Bachelor's in Computer Science & Engineering at PES University 
 - Executive General Management at IIMB
-- Industry Standard certifications on AI, Security, Networking & Product Management.
+- Industry Standard certifications on AI, Security (2xCCIE), Networking, Cloud & Product Management.
 
 ⚡ <samp>Interests:
 - Cybersecurity and computer networking
@@ -26,8 +24,6 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 
@@ -37,6 +33,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rudreshveerappaji&label=Profile%20views&color=0e75b6&style=flat" alt="rudreshveerappaji" /> </p>
 
 <hr>  
 
