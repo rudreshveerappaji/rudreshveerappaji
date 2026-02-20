@@ -6,20 +6,16 @@
   
 🔭 <samp> Education
 - Bachelor's in 💻 Engineering at PES University 
-- Executive management at IIMB
+- Executive General Management at IIMB
+- Industry Standard certifications on AI, Security, Networking & Product Management.
 
 ⚡ <samp>Interests:
 - Cybersecurity and computer networking
-- Cosmology
 - Machine learning and AI, Agentic frameworks
+- Cosmology
 - Literature
 - Philosophy
-
-👇 just hit 
-```bash
-npx rudreshveerappaji
-```
-
+  
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
