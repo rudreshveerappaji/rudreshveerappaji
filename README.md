@@ -5,7 +5,7 @@
 - Executive General Management at IIMB
 - Industry Standard certifications on AI, Security (2xCCIE), Networking, Cloud & Product Management.
 
-⚡ <samp>Interests:
+⚡ <samp>Interests
 - Cybersecurity and computer networking
 - Machine learning and AI, Agentic frameworks
 - Cosmology
