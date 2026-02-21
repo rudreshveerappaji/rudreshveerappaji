@@ -1,4 +1,4 @@
-<h2 align="center">Cybersecurity expert, AI Engineering, leader and a problem solver</h2>
+<h2 align="center">Cybersecurity Expert, Leader and a Problem Solver</h2>
   
 <h3><b><samp> Education </samp></b></h3>
 - Bachelor's in Computer Science & Engineering at PES University <br>
