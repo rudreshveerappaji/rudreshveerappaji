@@ -3,7 +3,7 @@
 <h3><b><samp> Education </samp></b></h3>
 - Bachelor's in Computer Science & Engineering at PES University <br>
 - Executive General Management at IIMB <br>
-- Industry Standard certifications on AI, Security (2xCCIE), Networking, Cloud & Product Management.
+- Industry Standard certifications in AI, Security (2xCCIE), Networking, Cloud & Product Management.
 
 <h3><b><samp> Interests </samp></b></h3>
 - Cybersecurity and computer networking <br>
